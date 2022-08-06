@@ -26,16 +26,16 @@ function sound(src) {
 }
 
 
-var audio  = new sound("Heavy-synth-loop-126-bpm.wav");
+var audio  = new sound("./media/Heavy-synth-loop-126-bpm.wav");
 
 
 //making aoudio when ball touch the rod
 
-var touch = new sound("POOL-Pool_Shot-709343898.wav");
+var touch = new sound("./media/POOL-Pool_Shot-709343898.wav");
 
 //when ball will fall then oh no sound
 
-var no = new sound("Oh-no-sound-effect.mp3");
+var no = new sound("./media/Oh-no-sound-effect.mp3");
 //audio section ends here
 
 
