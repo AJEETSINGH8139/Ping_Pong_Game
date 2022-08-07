@@ -24,3 +24,9 @@ How to play:-
 3. The losing rod will get the ball for the next match and the rods and ball will move to center.
 
 4. The score will be counted from the start of every match.
+
+![Screenshot (180)](https://user-images.githubusercontent.com/66356658/183273957-769d6f2b-55c2-47ba-8e26-673ddba149c6.png)
+
+![Screenshot (182)](https://user-images.githubusercontent.com/66356658/183273967-82c8dd0f-5397-414b-8a1b-f2001d818031.png)
+
+![Screenshot (183)](https://user-images.githubusercontent.com/66356658/183273973-7a17c157-90a5-4b31-8560-6afaa4ab02d6.png)
